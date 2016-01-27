@@ -1,4 +1,4 @@
-  #SPIS
+  #SPIS#
 - [Dane komputera](#dane-komputera)
 - [Zadanie 1a)](#zadanie-1a)
 - [Zadanie 1b)](#zadanie-1b)
