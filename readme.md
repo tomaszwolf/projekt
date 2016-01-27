@@ -6,12 +6,12 @@
 - [Zadanie 1d)](#zadanie-1d)
 
 	Dane Komputera
--*System Operacyjny:* Windows 8.1 x64
--*Procesor:* Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz
--*Liczba rdzeni:* 4 rdzenie
--*Pamiêæ RAM:* 8GB
--*Dysk Twardy:* HDD 932 GB
--*Predkosc zapisu/odczytu:* 102MB/s / 100MB/s
+-*System Operacyjny:* Windows 8.1 x64<br>
+-*Procesor:* Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz<br>
+-*Liczba rdzeni:* 4 rdzenie<br>
+-*Pamiêæ RAM:* 8GB<br>
+-*Dysk Twardy:* HDD 932 GB<br>
+-*Predkosc zapisu/odczytu:* 102MB/s / 100MB/s<br>
 -*Postgesql*: 9.4 x64<br>
 -*Mongodb*: 3.0.7 x64
 
