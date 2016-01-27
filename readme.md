@@ -2,10 +2,9 @@
 - [Dane komputera](#dane-komputera)
 - [Zadanie 1a)](#zadanie-1a)
 - [Zadanie 1b)](#zadanie-1b)
-- [Zadanie 1c)](#zadanie-1c)
-- [Zadanie 1d)](#zadanie-1d)
+- [Zadanie 1c)](#zadanie-1c) - [Zadanie 1d)](#zadanie-1d)
 
-	Dane Komputera<br>
+<b>Dane Komputera</b><br>
 -*System Operacyjny:* Windows 8.1 x64<br>
 -*Procesor:* Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz<br>
 -*Liczba rdzeni:* 4 rdzenie<br>
