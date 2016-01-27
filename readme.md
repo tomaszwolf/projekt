@@ -1,4 +1,4 @@
-  #SPIS TREŒCI
+  #SPIS
 - [Dane komputera](#dane-komputera)
 - [Zadanie 1a)](#zadanie-1a)
 - [Zadanie 1b)](#zadanie-1b)
@@ -9,9 +9,9 @@
 **System Operacyjny:**	Windows 8.1 x64
 **Procesor:**	Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz
 **Liczba rdzeni:**	4 rdzenie
-**Pamiêæ RAM:**	8GB
+**PamiÃªÃ¦ RAM:**	8GB
 **Dysk Twardy:**	HDD 932 GB
-**Prêdkoœæ zapisu/odczytu:**	102MB/s / 100MB/s
+**PrÃªdkoÅ“Ã¦ zapisu/odczytu:**	102MB/s / 100MB/s
 **Postgesql**: 9.4 x64<br>
 **Mongodb**: 3.0.7 x64
 
@@ -52,7 +52,7 @@ pgfutter_windows_amd64.exe --pw "polska1704" json "EC:\Users\Tomasz\Desktop\Bzyl
 
 #Zadanie 1b)
 
-Zliczanie rekordów:
+Zliczanie rekordÃ³w:
 
 Mongodb:
 
@@ -169,7 +169,7 @@ db.geoj.find({ loc: {$geoIntersects: {$geometry: line}} }).limit(20)
 
 ### 4
 
-KFC na obszarze od centrum Warszawa na po³udnie i po³udniowy wschód:
+KFC na obszarze od centrum Warszawa na poÂ³udnie i poÂ³udniowy wschÃ³d:
 
 
 ```sh
