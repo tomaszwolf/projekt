@@ -5,19 +5,19 @@
 - [Zadanie 1c)](#zadanie-1c)
 - [Zadanie 1d)](#zadanie-1d)
 
-	PARAMETRY KOMPUTERA
--System Operacyjny:	Windows 8.1 x64
--*Procesor:*	Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz
--*Liczba rdzeni:*	4 rdzenie
--*Pamiêæ RAM:*	8GB
--*Dysk Twardy:*	HDD 932 GB
--*Predkosc zapisu/odczytu:*	102MB/s / 100MB/s
+	Dane Komputera
+-*System Operacyjny:* Windows 8.1 x64
+-*Procesor:* Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz
+-*Liczba rdzeni:* 4 rdzenie
+-*Pamiêæ RAM:* 8GB
+-*Dysk Twardy:* HDD 932 GB
+-*Predkosc zapisu/odczytu:* 102MB/s / 100MB/s
 -*Postgesql*: 9.4 x64<br>
 -*Mongodb*: 3.0.7 x64
 
 #Zadanie 1a)
 
-Import bazy reddit:
+Import bazy redit:
 
 Mongodb:
 
