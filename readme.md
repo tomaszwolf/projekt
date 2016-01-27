@@ -17,13 +17,13 @@
 
 #Zadanie 1a)
 
-Import bazy redit:
+Import bazy reddit:
 
 Mongodb:
 
 ```sh
 
-mongoimport -d zad1 -c redit --type json --file "C:\Users\Tomasz\Desktop\Bzyl\rc\RC_2015-01.json"
+mongoimport -d zad1 -c reddit --type json --file "C:\Users\Tomasz\Desktop\Bzyl\rc\RC_2015-01.json"
 
 1:20:35
 
