@@ -2,7 +2,8 @@
 - [Dane komputera](#dane-komputera)
 - [Zadanie 1a)](#zadanie-1a)
 - [Zadanie 1b)](#zadanie-1b)
-- [Zadanie 1c)](#zadanie-1c) - [Zadanie 1d)](#zadanie-1d)
+- [Zadanie 1c)](#zadanie-1c)
+- [Zadanie 1d)](#zadanie-1d)
 
 <b>Dane Komputera</b><br>
 -*System Operacyjny:* Windows 8.1 x64<br>
