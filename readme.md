@@ -6,7 +6,7 @@
 - [Zadanie 1d)](#zadanie-1d)
 
 	PARAMETRY KOMPUTERA
--*System Operacyjny:*	Windows 8.1 x64
+-System Operacyjny:	Windows 8.1 x64
 -*Procesor:*	Intel(R) Core(TM) i7-4510HQ CPU @ 2.00GHz 2.60GHz
 -*Liczba rdzeni:*	4 rdzenie
 -*Pamiêæ RAM:*	8GB
